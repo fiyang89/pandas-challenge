@@ -25,7 +25,7 @@ As a first task, you've been asked to analyze the district-wide standardized tes
 ![Reading_Scores_By_Grade_Averages](https://user-images.githubusercontent.com/120594187/214722398-8eef5f0a-4a0f-455f-baf1-50ccf2378a2a.jpg)
 
 ### Average Scores by Spending Ranges
-![Spending_Summary](https://user-images.githubusercontent.com/120594187/214722765-da6aa84e-d48c-4f81-81dc-23a74010ed1c.jpg)
+![Spending_Summary](https://user-images.githubusercontent.com/120594187/214727804-b306c18b-b3ef-4a6a-9a49-576267afb3ed.jpg)
 
 ### Average Scores by School Size
 ![Size_Summary](https://user-images.githubusercontent.com/120594187/214723005-e03df8af-bf78-49f4-91db-94ed4093be30.jpg)
